@@ -28,7 +28,10 @@ public class FirstProgramVersion1 {
                         fileNm = fileNm + filename.charAt(i);
                       }else{
                           System.out.println(fileNm);
+                          System.out.println("Hello that is me!!");
                           break;
+                          
+                          
                       }
                     }
                 }
